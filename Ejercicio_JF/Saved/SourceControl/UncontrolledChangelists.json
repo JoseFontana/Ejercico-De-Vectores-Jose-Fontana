@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
-				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/Niveles/Ejercicio_Spaw.umap",
-				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/Niveles/EjemploVectores.umap",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/BluePrints/EjemplosVectores/BP_Personaje.uasset",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/BluePrints/EjemplosVectores/BP_GANCHO.uasset",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/BluePrints/EjemplosVectores/BP_PuntodeAnchajer.uasset",
@@ -18,6 +16,9 @@
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/BluePrints/EjercicoSPAW/BP_Criatura3.uasset",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/BluePrints/ActividadVectores/BP_Flecha.uasset",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/BluePrints/ActividadVectores/BP_Orco.uasset",
+				"F:/GitHub/Ejercico-De-Vectores-Jose-Fontana/Ejercicio_JF/Content/Niveles/EjercicoVectoresEntregar.umap",
+				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/Niveles/Ejercicio_Spaw.umap",
+				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/Niveles/EjemploVectores.umap",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/Cave_Ruins/Textures/T_Bars_AO_R_MT.uasset",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/Cave_Ruins/Textures/T_Bars_BC.uasset",
 				"F:/GitHub/PEV1/Ejercitaciones/Ejercicios/Content/Cave_Ruins/Textures/T_Bars_N.uasset",
